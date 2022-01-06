@@ -8,7 +8,6 @@ p{
 }
 .flexible-container{
     display: flex;
-    
     margin-bottom: 100px;
 }
 .half-width{
@@ -19,20 +18,17 @@ p{
 .header{
     border-left: 5px solid;
     border-image: linear-gradient(orange, tomato);
-    border-image-slice: 1;
-    
-   
+    border-image-slice: 1;  
 }
+
 .header h1{
     font-family: 'Noto Serif', serif;
     font-size: 50px;
-    margin-left: 2%;
-    
+    margin-left: 2%;   
 }
 .color{
     color: orange;
 }
-
 
 .half-width img{
     width: 50%;
@@ -46,7 +42,7 @@ p{
 .link-button{
     text-decoration: none;
     padding: 20px 40px;
-   background-color: #FF5959;
+    background-color: #FF5959;
     border-radius: 5px;
     color: white;
     font-weight: bold;
@@ -82,7 +78,7 @@ p{
 }
 
 .heading2{
-font-size: 50px;
+    font-size: 50px;
 }
 .second-width{
     width: 35%;
@@ -120,7 +116,7 @@ font-size: 50px;
     width: 150px;
     height: 40px;
     color: white;
-   background-color: #FF5959;
+    background-color: #FF5959;
     border-radius: 10px;
     border: none;
     font-size: 20px;
