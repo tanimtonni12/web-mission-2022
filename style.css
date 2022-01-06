@@ -1,0 +1,150 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+p{
+    line-height: 1.8em;
+    font-size: 20px;
+}
+.flexible-container{
+    display: flex;
+    
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 6%;   
+
+}
+.header{
+    border-left: 5px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+    
+   
+}
+.header h1{
+    font-family: 'Noto Serif', serif;
+    font-size: 50px;
+    margin-left: 2%;
+    
+}
+.color{
+    color: orange;
+}
+
+
+.half-width img{
+    width: 50%;
+
+}
+.button{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.link-button{
+    text-decoration: none;
+    padding: 20px 40px;
+   background-color: #FF5959;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+ 
+ 
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.web-mission{
+    width: 25%;
+    margin: 0 6%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 2%;
+    border-radius: 10px;
+}
+.web-mission img{
+    width: 40%;
+}
+#box-color1{
+    background-color: #dbf4f7;
+}
+#box-color2{
+    background-color: #f8e5e5;
+
+}
+#box-color3{
+    background-color: #f7f4ef;
+}
+
+.heading2{
+font-size: 50px;
+}
+.second-width{
+    width: 35%;
+    padding-left: 6%;
+}
+.second-width img{
+    width: 85%;
+    
+}
+.contact-form{
+    width: 30%;
+    margin: 2% 6%;
+}
+
+.contact-form input{
+    display: block;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 30px;
+    padding: 10px;
+    outline: none;
+}
+.contact-form textarea{
+    width: 400px;
+    margin-bottom: 20px;
+    padding: 10px;
+    outline: none;
+}
+
+.contact-form img{
+    width: 100%;
+     
+}
+.contact-form button{
+    width: 150px;
+    height: 40px;
+    color: white;
+   background-color: #FF5959;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    display: block;
+}
+.contact-form button:hover{
+    background-image:linear-gradient(lightsalmon,tomato);
+    
+}
+.bg-footer{
+    background-color: rgb(20, 20, 20);
+    text-align: center;
+    padding: 2%;
+}
+.footer-heading i{
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+   
+}.red-color{
+    color: #FF5959;
+}
+.footer-paragraph{
+    color: rgb(196, 190, 190);
+}
+
+
